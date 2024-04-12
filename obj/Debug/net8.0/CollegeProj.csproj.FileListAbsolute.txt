@@ -1,0 +1,14 @@
+C:\Users\SH.Rayan\source\repos\CollegeProj\bin\Debug\net8.0\CollegeProj.exe
+C:\Users\SH.Rayan\source\repos\CollegeProj\bin\Debug\net8.0\CollegeProj.deps.json
+C:\Users\SH.Rayan\source\repos\CollegeProj\bin\Debug\net8.0\CollegeProj.runtimeconfig.json
+C:\Users\SH.Rayan\source\repos\CollegeProj\bin\Debug\net8.0\CollegeProj.dll
+C:\Users\SH.Rayan\source\repos\CollegeProj\bin\Debug\net8.0\CollegeProj.pdb
+C:\Users\SH.Rayan\source\repos\CollegeProj\obj\Debug\net8.0\CollegeProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SH.Rayan\source\repos\CollegeProj\obj\Debug\net8.0\CollegeProj.AssemblyInfoInputs.cache
+C:\Users\SH.Rayan\source\repos\CollegeProj\obj\Debug\net8.0\CollegeProj.AssemblyInfo.cs
+C:\Users\SH.Rayan\source\repos\CollegeProj\obj\Debug\net8.0\CollegeProj.csproj.CoreCompileInputs.cache
+C:\Users\SH.Rayan\source\repos\CollegeProj\obj\Debug\net8.0\CollegeProj.dll
+C:\Users\SH.Rayan\source\repos\CollegeProj\obj\Debug\net8.0\refint\CollegeProj.dll
+C:\Users\SH.Rayan\source\repos\CollegeProj\obj\Debug\net8.0\CollegeProj.pdb
+C:\Users\SH.Rayan\source\repos\CollegeProj\obj\Debug\net8.0\CollegeProj.genruntimeconfig.cache
+C:\Users\SH.Rayan\source\repos\CollegeProj\obj\Debug\net8.0\ref\CollegeProj.dll
